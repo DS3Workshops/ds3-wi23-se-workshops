@@ -1,0 +1,2 @@
+Put all source code for your workshop in this directory inside a folder for your workshop.
+
