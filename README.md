@@ -14,4 +14,4 @@ This repository contains all the reference materials for Software Engineering (S
 
 ### Have fun playing around with the code! 
 ### Big thank you to all the workshop members that contributed to this repository! 
-###Credit Section (Add you name below if you contributed to this repository)
+### Credit Section (Add you name below if you contributed to this repository)
